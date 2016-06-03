@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_driver_home_screen"
+            android:title="Driver Profile" />
+        <item
+            android:id="@+id/nav_personal_info"
+            android:title="Personal Information" />
+        <item
+            android:id="@+id/nav_requirements"
+            android:title="Requirements" />
+        <item
+            android:id="@+id/nav_driver_schedule"
+            android:title="Schedule" />
+        <item
+            android:id="@+id/nav_trip"
+            android:title="Trips" />
+        <item
+            android:id="@+id/nav_vehicle"
+            android:title="Vehicle" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout" />
+    </group>
+
+</menu>
